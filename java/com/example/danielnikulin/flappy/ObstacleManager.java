@@ -106,9 +106,8 @@ public class ObstacleManager  {
 
 
            //obstacles.remove(obstacles.size()-1);
-            Runtime.getRuntime().gc();
-            //System.gc();
-             //перепесать метод
+           // Runtime.getRuntime().gc();
+      
 
         }
 
